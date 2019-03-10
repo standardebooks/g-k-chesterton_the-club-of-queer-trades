@@ -1,2 +1,39 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+}
+
+table{
+	width: 100%;
+	border-collapse: collapse;
+}
+
+caption,
+th{
+	font-weight: normal;
+	font-style: italic;
+	text-align: center;
+}
+
+th,
+td{
+	padding: .25em 0;
+}
+
+th + th,
+td + td {
+	text-align: right;
+	padding-left: 1em;
+	font-variant-numeric: tabular-nums;
+}
+
+tfoot td + td{
+	border-top: 1px solid;
+}
+
+.invoice p{
+	text-align: center;
+}
