@@ -24,7 +24,7 @@ td{
 }
 
 th + th,
-td + td {
+td + td{
 	text-align: right;
 	padding-left: 1em;
 	font-variant-numeric: tabular-nums;
@@ -34,6 +34,6 @@ tfoot td + td{
 	border-top: 1px solid;
 }
 
-.invoice p{
+table + p{
 	text-align: center;
 }
