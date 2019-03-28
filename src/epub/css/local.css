@@ -76,3 +76,7 @@ p span.i2{
 [epub|type~="z3998:drama"] .name{
 	font-style: italic;
 }
+
+.mortal-threat{
+	text-align: center;
+}
