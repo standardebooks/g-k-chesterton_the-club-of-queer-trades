@@ -77,6 +77,6 @@ p span.i2{
 	font-style: italic;
 }
 
-.mortal-threat{
+#chapter-1 blockquote:nth-of-type(2){
 	text-align: center;
 }
