@@ -36,6 +36,7 @@ tfoot td + td{
 
 table + p{
 	text-align: center;
+	text-indent: 0;
 }
 
 [epub|type~="z3998:song"] p{
