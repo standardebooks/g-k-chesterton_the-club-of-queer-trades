@@ -46,8 +46,8 @@ table + p{
 
 [epub|type~="z3998:song"] p > span{
 	display: block;
-	text-indent: -1em;
 	padding-left: 1em;
+	text-indent: -1em;
 }
 
 [epub|type~="z3998:song"] p > span + br{
@@ -55,8 +55,8 @@ table + p{
 }
 
 p span.i2{
-	text-indent: -2em;
 	padding-left: 3em;
+	text-indent: -2em;
 }
 
 [epub|type~="z3998:signature"],
