@@ -7,14 +7,14 @@ footer{
 }
 
 table{
-	margin: auto;
 	border-collapse: collapse;
+	margin: auto;
 }
 
 caption,
 th{
-	font-weight: normal;
 	font-style: italic;
+	font-weight: normal;
 	text-align: center;
 }
 
@@ -25,9 +25,9 @@ td{
 
 th + th,
 td + td{
-	text-align: right;
-	padding-left: 1em;
 	font-variant-numeric: tabular-nums;
+	padding-left: 1em;
+	text-align: right;
 }
 
 tfoot td + td{
