@@ -23,7 +23,7 @@ td{
 	vertical-align: bottom;
 }
 
-th + th,
+th,
 td + td{
 	font-variant-numeric: tabular-nums;
 	padding-left: 1em;
