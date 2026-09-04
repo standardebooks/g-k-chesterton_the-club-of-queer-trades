@@ -31,7 +31,7 @@
 		<dc:title id="title">The Club of Queer Trades</dc:title>
 		<meta property="file-as" refines="#title">Club of Queer Trades, The</meta>
 		<dc:subject id="subject-1">Detective and mystery stories, English</dc:subject>
-		<dc:subject id="subject-2">Private investigators -- England -- London -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Private investigators--England--London--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85037269</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
